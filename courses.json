@@ -1,0 +1,26 @@
+{
+  "SE 310": {
+    "name": "Design of Structures & Mechanisms",
+    "credits": 3,
+    "offered": ["Fall"],
+    "prereqs": []
+  },
+  "SE 320": {
+    "name": "Control Systems",
+    "credits": 4,
+    "offered": ["Fall"],
+    "prereqs": ["ECE 211"]
+  },
+  "ECE 211": {
+    "name": "Analog Circuits & Systems",
+    "credits": 2,
+    "offered": ["Fall", "Spring"],
+    "prereqs": []
+  },
+  "SE 311": {
+    "name": "Engineering Design Analysis",
+    "credits": 3,
+    "offered": ["Spring"],
+    "prereqs": ["SE 310"]
+  }
+}
